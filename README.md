@@ -7,4 +7,4 @@ https://github.com/niklasb/dryscrape
 
 Usage:
 
-$ perl scrape.py
+$ python scrape.py
