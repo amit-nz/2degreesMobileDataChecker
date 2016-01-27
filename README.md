@@ -6,4 +6,5 @@ Makes use of the DryScrape library
 https://github.com/niklasb/dryscrape
 
 Usage:
-perl scrape.py
+
+$ perl scrape.py
